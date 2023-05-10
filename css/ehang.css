@@ -84,6 +84,7 @@ body {
 }
 .main > .wrapper .box1:hover {
   background-color: rgba(220, 223, 245, 0.7);
+  cursor: pointer;
 }
 .main > .wrapper .box1 .right-info {
   margin-top: 10px;
@@ -108,6 +109,7 @@ body {
 }
 .main > .wrapper .box2:hover {
   background-color: rgba(135, 206, 235, 0.7);
+  cursor: pointer;
 }
 .main > .wrapper .box2 .right-info {
   margin-top: 10px;
@@ -132,6 +134,7 @@ body {
 }
 .main > .wrapper .box3:hover {
   background-color: rgba(255, 192, 203, 0.7);
+  cursor: pointer;
 }
 .main > .wrapper .box3 .right-info {
   margin-top: 10px;
@@ -156,6 +159,7 @@ body {
 }
 .main > .wrapper .box4:hover {
   background-color: rgba(244, 235, 213, 0.7);
+  cursor: pointer;
 }
 .main > .wrapper .box4 .right-info {
   margin-top: 10px;
@@ -180,6 +184,7 @@ body {
 }
 .main > .wrapper .box5:hover {
   background-color: rgba(255, 255, 153, 0.7);
+  cursor: pointer;
 }
 .main > .wrapper .box5 .right-info {
   margin-top: 10px;
@@ -204,6 +209,7 @@ body {
 }
 .main > .wrapper .box6:hover {
   background-color: rgba(144, 238, 144, 0.7);
+  cursor: pointer;
 }
 .main > .wrapper .box6 .right-info {
   margin-top: 10px;
